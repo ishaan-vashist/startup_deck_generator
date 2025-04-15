@@ -1,0 +1,5 @@
+task: "Create a complete startup pitch deck for: '{{ idea }}'"
+agent_order:
+  - Startup Strategist
+  - Market Research Analyst
+  - Slide Copywriter
