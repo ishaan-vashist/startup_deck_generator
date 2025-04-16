@@ -54,7 +54,7 @@ The AI-Powered Startup Deck Generator allows users to quickly generate a profess
              │
              ▼
 ┌────────────────────────────┐
-│        CrewAI Engine        │
+│        CrewAI Engine       │
 │         `crew.py`          │
 │ - Loads YAML config        │
 │ - Creates agents/tasks     │
@@ -77,10 +77,10 @@ The AI-Powered Startup Deck Generator allows users to quickly generate a profess
              │
              ▼
 ┌────────────────────────────┐
-│     PDF Generator Module    │
-│     `pdf_generator.py`      │
-│ - Converts .md → PDF        │
-│ - Outputs `deck_output.pdf` │
+│     PDF Generator Module   │
+│     `pdf_generator.py`     │
+│ - Converts .md → PDF       │
+│ - Outputs `deck_output.pdf`│
 └────────────────────────────┘
 ```
 
